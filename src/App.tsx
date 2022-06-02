@@ -1,7 +1,31 @@
+
 import React, {useState} from 'react';
 import './App.css';
-import {NewComponent} from "./NewComponent";
-import {TopCars} from "./TopCars";
+import {NewComponent} from "./Lesson/NewComponent";
+import {TopCars} from "./Lesson/TopCars";
+/*import {Header} from './site/Header';
+import { Body } from './site/Body';
+import { Footer } from './site/Footer';
+import { NewBody } from './site/NewBody';
+import { AgainHeader } from './site/AgainHeader';
+import { ParaTruper } from './site/ParaTruper';
+import { FinishFooter } from './site/FinishFooter';
+
+function App() {
+    return (
+        <>
+            <Header title={'Mad cars'}/>
+            <AgainHeader title={'Gerasimenko cars'}/>
+            <Body title={'Crazzy cars'}/>
+            <NewBody title={'Frantic cars'}/>
+            <ParaTruper title={'Mega puper cars'}/>
+            <Footer title={'Desperate cars'}/>
+            <FinishFooter title={'Stop cars'}/>
+
+        </>
+    );
+}
+export default App;*/
 
 function App() {
 
